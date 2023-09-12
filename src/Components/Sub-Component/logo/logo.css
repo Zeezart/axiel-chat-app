@@ -1,0 +1,38 @@
+.logo-container{
+    width: 75px;
+    height: 51px;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+}
+
+.first-block{
+    width: 100%;
+    background-color: #00193F;
+    height: 10px;
+    margin-bottom: 2px;
+}
+
+.second-block{
+    width: 75%;
+    background-color: #00193F;
+    height: 10px;
+    margin: 0 auto;
+    margin-bottom: 2px;
+}
+
+.third-block{
+    width: 50%;
+    background-color: #00193F;
+    height: 10px;
+    margin: 0 auto;
+    margin-bottom: 2px;
+}
+
+.triangle-block{
+    width: 0;
+    height: 0;
+    border-left: 50px solid blue;
+    border-right: 50px solid green;
+    border-top: 100px solid #f00;
+}

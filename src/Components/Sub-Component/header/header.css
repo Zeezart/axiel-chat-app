@@ -1,0 +1,22 @@
+
+.header{
+    margin: 0;
+    margin-bottom: 1.5rem;
+    padding: 1rem auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header img{
+    width: 32px;
+}
+
+.header h1{
+    font-size: 2rem;
+}
+
+.header-icons:nth-child(1){
+    margin-right: 1rem;
+}

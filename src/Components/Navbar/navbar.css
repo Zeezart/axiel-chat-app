@@ -1,0 +1,23 @@
+
+.navbar{
+    background-color: #00193F;
+    padding: 1rem;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 50px 50px 0 0;
+}
+
+.nav-icon{
+    font-size: 1rem;
+    color: #95A1B4;
+}
+
+.active{
+    font-size: 1.5rem;
+    color: #ffffff;
+}

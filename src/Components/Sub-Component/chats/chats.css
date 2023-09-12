@@ -1,0 +1,35 @@
+.single-chat{
+    display: flex;
+    border-top: 1px solid rgba(190, 190, 190, 0.171);
+    padding: 1rem 0;
+    text-align: left;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.chat-preview{
+    display: flex;
+}
+.single-chat img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.chat-preview .contact-info{
+    margin: 0 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: flex-start;
+}
+
+.time-unread{
+    text-align: center;
+}
+
+.unread{
+    padding: 2px;
+    font-size: 0.8rem;
+    color: blue;
+}

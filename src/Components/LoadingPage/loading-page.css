@@ -1,0 +1,23 @@
+section{
+    margin: auto;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+.logo{
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+    align-items: center;
+}
+
+.axiel{
+    color: #00193F;
+    font-size: 3.5rem;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0;
+    padding: 0
+}
